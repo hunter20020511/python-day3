@@ -1,6 +1,7 @@
 numbers=[23,34,60,80]
+print(len(numbers))
 for num in numbers:
-    print(numbers)
+    print(num)
 
 print (numbers[0])
 print(numbers[2])
